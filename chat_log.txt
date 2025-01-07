@@ -1,0 +1,4 @@
+=== Chat Log Started ===
+Conor has joined the chat.
+Conor: hi
+Conor has left the chat.
